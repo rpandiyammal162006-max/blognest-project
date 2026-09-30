@@ -1,0 +1,7 @@
+# Use this workspace to collaborate
+workspace:
+  id: b0afe3f5-4d0b-45cf-8038-589904ba98a2
+
+localResources:
+  collections:
+    - ../Code Files/thunder-client-ai-blognest-api.postman_collection.json
